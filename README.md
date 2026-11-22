@@ -1,8 +1,8 @@
 # Sunday 22 November 2026 in one image: 8 sourced stories, a world map and a date check
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/news-image-20261122)
-[![make.fun — live](https://make.fun/badge/live.svg)](https://make.fun/)
-[![make.fun — $100 prize](https://make.fun/badge/prize.svg)](https://make.fun/bounty/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/people871/makefun-news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/people871/makefun-news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 A newspaper-front-page image that sums up Sunday 22 November 2026's world
 news: **8 sourced stories, a world map with numbered pins placed from real
